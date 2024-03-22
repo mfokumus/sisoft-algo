@@ -15,7 +15,10 @@ Bu projede, Trie (Ağaç) veri yapısını kullanarak sözlük dosyasındaki kel
 
 ## Örnek Çıktılar
 
-Sözlük Yükleniyor. Lütfen Bekleyin...
+Sözlük Yükleniyor.
+
+Lütfen Bekleyin...
+
 Sözlük Yüklendi.
 
 Bir Kelime Yazıp Enter Tuşuna Basınız
