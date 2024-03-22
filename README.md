@@ -13,12 +13,6 @@ Bu projede, Trie (Ağaç) veri yapısını kullanarak sözlük dosyasındaki kel
 - **MyTree**: Sözlük dosyasındaki kelimeleri Trie yapısına yükleyen sınıf.
 - **Main**: Kullanıcı arayüzü ve uygulamanın çalıştırıldığı ana sınıf.
 
-## Nasıl Kullanılır?
-
-1. Proje klasöründe bulunan `sozluk.txt` dosyasını kullanarak projeyi çalıştırın.
-2. Konsola `Java Main sozluk.txt` komutunu girin.
-3. Programın yönergelerini takip ederek bir kelime yazın ve olası eşleşmeleri görün.
-
 ## Örnek Çıktılar
 
 Sözlük Yükleniyor. Lütfen Bekleyin...
